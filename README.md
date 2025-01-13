@@ -30,21 +30,22 @@ Hi, I'm coxy. I'm a 18 year old fullstack developer who likes networking and rev
     }
    }
   }
+
   fn main() {
       let programming_languages = languages::new();
       programming_languages.display();
-}
+  }
 ```
 ## 🛠️ Skills I have
 
-### Frameworks & Tools:
-- **React** ⚛️  
-- **NextJs** ⚡  
-- **Flask** 🍃  
+### Frameworks:
+- **React**   
+- **NextJs** 
+- **Flask**  
 
 ### Other:
-- **Git** 🧑‍💻  
-- **SQL** 🗂️  
+- **Git**  
+- **SQL**   
 ---
 
 ---
