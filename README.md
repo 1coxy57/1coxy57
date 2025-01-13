@@ -21,6 +21,7 @@ Hi, I'm coxy. I'm a 18 year old fullstack developer who likes networking and rev
           String::from("Rust"),
           String::from("Python"),
           String::from("Javascript"),
+          String::from("Go"),
         ]
       }
    }
@@ -40,15 +41,13 @@ Hi, I'm coxy. I'm a 18 year old fullstack developer who likes networking and rev
 
 ### Frameworks:
 - **React**   
-- **NextJs** 
+- **NextJS** 
 - **Flask**  
 
 ### Other:
 - **Git**  
 - **SQL**   
----
-
----
+--------
 
 
 
