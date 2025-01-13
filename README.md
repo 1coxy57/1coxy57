@@ -2,9 +2,10 @@
 
 # 👋 About Me
 
-Hi, I'm coxy. I'm a 18 year old fullstack developer who likes networking and reverse engineering. 
+Hi, I'm coxy. I'm a 18 year old fullstack developer who likes networking and reverse engineering. Currently learning rust
 # Socials
 **Discord**: coxy.57
+**guns.lol**: [coxy](https://guns.lol/realcoxy)
 
 
 ---
