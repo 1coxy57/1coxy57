@@ -28,7 +28,7 @@ Hi, I'm coxy. I'm a 18 year old fullstack developer who likes networking and rev
    }
    fn display(&self) {
     for language in &self.languages {
-      println!(language);
+      println!("{}", language);
     }
    }
   }
