@@ -28,10 +28,8 @@ Hi, I'm coxy.
    }
   }
   fn main() {
-      let a = 5;
-      let b = 10;
-      let sum = a + b;
-      println!("Sum is: {}", sum);
+      let programming_languages = languages::new();
+      programming_languages.display();
 }
 
 ## 🛠️ Skills I have
