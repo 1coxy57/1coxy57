@@ -2,7 +2,9 @@
 
 # 👋 About Me
 
-Hi, I'm coxy.
+Hi, I'm coxy. I'm a 18 year old fullstack developer who likes networking and reverse engineering. 
+**Discord**: coxy.57
+
 
 ---
 
@@ -44,13 +46,8 @@ Hi, I'm coxy.
 - **SQL** 🗂️  
 ---
 
-## 🌟 What I Do
-- 🚀 Build scalable and efficient backend systems.  
-- 🔍 Explore web security and reverse engineering techniques.  
-- 🌐 Develop full-stack applications using modern frameworks and tools.  
-
 ---
 
-Discord: coxy.57
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1coxy57&theme=tokyonight&show_icons=true&card_width=1100"> </p>
