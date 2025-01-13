@@ -31,7 +31,7 @@ Hi, I'm coxy.
       let programming_languages = languages::new();
       programming_languages.display();
 }
-
+```
 ## 🛠️ Skills I have
 
 ### Frameworks & Tools:
