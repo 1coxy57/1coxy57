@@ -11,32 +11,32 @@ Hi, I'm coxy. I'm a 18 year old fullstack developer who likes networking and rev
 ---
 
 ```rust
-  struct languages {
+struct Languages {
    language: Vec<String>,
-  }
+}
 
-  impl languages {
-   fn new() -> Self {
-      languages {
-        languages: vec![
-          String::from("Rust"),
-          String::from("Python"),
-          String::from("Javascript"),
-          String::from("Go"),
-        ]
-      }
-   }
-   fn display(&self) {
+impl Languages {
+  fn new() -> Self {
+    Languages {
+      languages: vec![
+        String::from("Rust"),
+        String::from("Python"),
+        String::from("Javascript"),
+        String::from("Go"),
+      ]
+    }
+  }
+  fn display(&self) {
     for language in &self.languages {
       println!("{}", language);
     }
-   }
   }
+}
 
-  fn main() {
-      let programming_languages = languages::new();
-      programming_languages.display();
-  }
+fn main() {
+  let prog_languages = Languages::new();
+  prog_languages.display();
+}
 ```
 ## 🛠️ Skills I have
 
