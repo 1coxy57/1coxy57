@@ -1,16 +1,48 @@
-## Hi there 👋
+```rust
+fn main() {
+    let a = 5;
+    let b = 10;
+    let sum = a + b;
+    println!("Sum is: {}", sum);
+}
 
-<!--
-**1coxy57/1coxy57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 About Me
 
-Here are some ideas to get you started:
+Hi, I'm coxy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills I have
+
+### Languages:
+- **Python** 🐍  
+- **Golang** 🚀  
+- **JavaScript** 🌐  
+
+### Frameworks & Tools:
+- **React** ⚛️  
+- **FastAPI** ⚡  
+- **Flask** 🍃  
+- **MUI** 🎨  
+- **NextUI** 💻  
+
+### Other Skills:
+- **Git** 🧑‍💻  
+- **SQL** 🗂️  
+- **Team Collaboration** 🤝  
+- **Docker** 🐳
+- **UI/UX** 👀
+- **Figma** 🖍️
+
+---
+
+## 🌟 What I Do
+- 🚀 Build scalable and efficient backend systems.  
+- 🔍 Explore web security and reverse engineering techniques.  
+- 🌐 Develop full-stack applications using modern frameworks and tools.  
+
+---
+
+Discord: 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1coxy57&theme=tokyonight&show_icons=true&card_width=1100"> </p>
