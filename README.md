@@ -6,7 +6,6 @@ Hi, I'm coxy. I'm a 18 year old fullstack developer who likes networking and rev
 # Socials
 ```
 Discord: coxy.57
-Guns.lol: [coxy](https://guns.lol/realcoxy)
 ```
 
 ---
