@@ -5,10 +5,10 @@
 ## 🚀 Tech Stack
 
 ### Languages
-- **Rust** 🦀
-- **Python** 🐍
-- **JavaScript** ⚡
-- **Go** 🏎️
+- **Rust** (2 months) 🦀
+- **Python** (4+ years) 🐍
+- **JavaScript** (1+ year) ⚡
+- **Go** (Learning) 🏎️
 
 ### Frameworks & Tools
 - **React**, **Next.js**
