@@ -1,54 +1,55 @@
+# 👋 Coxy
 
+18-year-old fullstack developer into **pentesting, networking, and cybersecurity**.  
 
-# 👋 About Me
+## 🚀 Tech Stack
 
-Hi, I'm coxy. I'm a 18 year old fullstack developer who likes **pentesting**, **networking**, and **cyber security**.
+### Languages
+- **Rust** 🦀
+- **Python** 🐍
+- **JavaScript** ⚡
+- **Go** 🏎️
 
-# Socials
-```
-Discord: coxy.57
-```
+### Frameworks & Tools
+- **React**, **Next.js**
+- **Flask**, **SQL**
+- **Git**
 
----
+## 📬 Contact
+[![Discord](https://img.shields.io/badge/Discord-coxy.57-7289DA?style=for-the-badge&logo=discord)](https://discord.com/)  
 
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1coxy57&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1coxy57&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+## 💻 Code Snippet
 ```rust
 struct Languages {
-   language: Vec<String>,
+    languages: Vec<String>,
 }
 
 impl Languages {
-  fn new() -> Self {
-    Languages {
-      languages: vec![
-        String::from("Rust"),
-        String::from("Python"),
-        String::from("Javascript"),
-        String::from("Go"),
-      ]
+    fn new() -> Self {
+        Languages {
+            languages: vec![
+                String::from("Rust"),
+                String::from("Python"),
+                String::from("JavaScript"),
+                String::from("Go"),
+            ],
+        }
     }
-  }
-  fn display(&self) {
-    for language in &self.languages {
-      println!("{}", language);
+
+    fn display(&self) {
+        for language in &self.languages {
+            println!("{}", language);
+        }
     }
-  }
 }
 
 fn main() {
-  let prog_languages = Languages::new();
-  prog_languages.display();
+    let prog_languages = Languages::new();
+    prog_languages.display();
 }
-```
-## 🛠️ Skills I have
-
-### Frameworks:
-- **React**   
-- **NextJS** 
-- **Flask**  
-
-### Other:
-- **Git**  
-- **SQL**   
---------
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1coxy57&theme=tokyonight&show_icons=true&card_width=1100"> </p>
