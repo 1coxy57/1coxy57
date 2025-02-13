@@ -26,25 +26,21 @@
 
 ```rust
 struct Languages {
-    languages: Vec<String>,
+    languages: Vec<&'static str>,
 }
 
 impl Languages {
     fn new() -> Self {
-        Languages {
-            languages: vec![
-                String::from("Rust"),
-                String::from("Python"),
-                String::from("JavaScript"),
-                String::from("Go"),
-            ],
+        Self {
+            languages: vec!["Rust", "Python", "JavaScript", "Go"],
         }
     }
 
     fn display(&self) {
-        for language in &self.languages {
-            println!("{}", language);
-        }
+        println!("🚀 Languages: ");
+        self.languages.iter().enumerate().for_each(|(i, lang)| {
+            println!("{}. {}", i + 1, lang);
+        });
     }
 }
 
