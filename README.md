@@ -24,7 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1coxy57&theme=tokyonight&hide_border=true" height="165">
 </p>
 
-## 💻 Code Snippet
 ```rust
 struct Languages {
     languages: Vec<String>,
